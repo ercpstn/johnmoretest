@@ -1,0 +1,93 @@
+<html>
+<head>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<title>John More Association - Home</title>
+<link rel="stylesheet" type="text/css" href="default.css"/>
+</head>
+<body>
+<div id="outer">
+	<div id="upbg"></div>
+	<div id="inner">
+		<div id="splash"></div>
+		<div id="menu">
+			<ul id="nav">
+		<li style="padding:6px; padding-left:35px;">
+			<a href="#" style="padding-top:12px;">Home</a>
+		</li>
+		<li style="padding:6px;">
+			<a href="#" style="padding-top:12px;">About</a>
+			<ul>
+            	<li><p></p></li>
+				<li><a href="yat.html">Yesterday and Today</a></li>
+				<li><a href="lines.html">Lines</a></li>
+                <li><a href="hsites.html">Historical Sites</a></li>
+                <li><a href="archives.html">Archives</a></li>
+                <li><a href="facts.html">Fascinating Facts</a></li>
+                <li><a href="aiad.html">Am I a Descendant?</a></li>
+                <li><p></p></li>
+			</ul>
+		</li>
+		<li style="padding:6px;">
+			<a href="mailto:juanitagoin@hotmail.com" style="padding-top:12px;">Contact</a>
+		</li>
+	</ul>
+          <a href="https://www.findagrave.com/user/profile/47890570 " target="_blank" class="cemetery">
+          JMA Cousins Virtual Cemetery
+          </a>
+          <a href="http://www.youtube.com/user/jmadirectory" target="_blank">
+          <img src="images/youtubethumb.png" align="right" style="padding:4px;">
+          </a>
+          <a href="http://www.facebook.com/groups/31529925193/" target="_blank">
+          <img src="images/facebookthumb.png" align="right" style="padding:4px;">
+          </a>
+	      <div id="date">Last Updated: 8/14/2022</div>
+		</div>
+		<div id="primarycontent">
+			<div class="post">
+				<div class="header">
+					<h3 >Welcome to JohnMore.com</h3>
+				</div>
+				<div class="content">
+				  <p>The John More Association, Inc is an association of descendants of one couple, John and Betty Taylor More, who immigrated from Rothiemurchus, Scotland, in 1772 and were one of the first European settlers of Delaware County, NY.</p>
+				  <p>The More family geneology contains the names of over 17,000 descendants.				</p>
+				  <p align="center"> 
+                  <!--<img src="images/JMALogo.jpg">-->
+                  <div align="center">
+					  <p style="text-align: center !important;"><img src="Reunion-2022.jpg" width="500" alt="Reunion 2022">  </p>         
+                   <p  style="text-align: center !important;"><a href="http://johnmore.com/2022-reunion.html">View 2022 Reunion Pictures</a></p>
+					</div>
+                  
+                  </p>
+			  </div>
+			</div>
+		</div>
+		<div id="secondarycontent">
+			<h3>Announcements</h3>
+			<div class="content">
+			 <iframe src="announcements.html" height="90" width="180" frameborder="0" marginheight="0"></iframe> 
+			</div>
+			<div class="content">
+				<ul class="linklist">
+					<li><a href="familyupdates.html">Submit Family Updates</a></li>
+					<li><a href="dues.html">Dues</a></li>
+					<li><a href="http://www.more.org/directory/" target="_blank">Genealogy Directory</a></li>
+                    <li><a href="http://www.more.org/directory/journals.php" target="_blank">Journals</a></li>
+          					<li><a href="store.html">JMA Store</a></li>
+          
+					<li><a href="reunions.html">Reunions</a></li>
+					<li class="custom_link"><a href="library.html">Digital Library</a></li>
+					<li><a href="board.html">Board</a></li>
+                    <li><a href="scholarship.html">Scholarship</a></li>
+                    <li></li>
+			  </ul>
+		  </div>
+		</div>
+		<div id="footer">
+		  <div align="right">With Reverence to the Past...Vision for the Future</div>
+		</div>
+  </div>
+</div>
+</body>
+</html>
